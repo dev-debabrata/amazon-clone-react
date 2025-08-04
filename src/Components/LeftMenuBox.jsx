@@ -1,15 +1,18 @@
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
 
-export const LeftMenuBox = (props) => {
+export const LeftMenuBox = ({ title, listDetail }) => {
   return (
-    <div className="leftbar-menu-box">
-      <h3 className="title">{props.title}</h3>
-      <ul>
-        {props.listDetail.map((item) => (
-          <li className="leftMenu-item" key={item.id}>
+    <div className="p-5 text-[#111] border-b border-[#d5dbdb]">
+      <h3 className="font-semibold mb-4">{title}</h3>
+      <ul className="list-none">
+        {listDetail.map((item) => (
+          <li
+            key={item.id}
+            className="flex justify-between items-center py-[0.7rem] text-[0.9rem] hover:bg-[#eaeded] rounded-md cursor-pointer"
+          >
             <div>{item.menuItem}</div>
             <div>
-              <ArrowForwardIosIcon />
+              <ArrowForwardIosIcon className="text-sm" />
             </div>
           </li>
         ))}
@@ -18,20 +21,23 @@ export const LeftMenuBox = (props) => {
   );
 };
 
-export const LeftMenuBox2 = (props) => {
 
-  const { title } = props;
 
+export const LeftMenuBox2 = ({ title, listDetail }) => {
   return (
-    <div className="leftbar-menu-box">
-      <h3 className="title">{title}</h3>
-      <ul>
-      {props.listDetail.map((item) => (
-          <li className="leftMenu-item" key={item.id}>
-            <div>{item.menuItem}</div>
+    <div className="p-5 text-[#111] border-b border-[#d5dbdb]">
+      <h3 className="font-semibold mb-4">{title}</h3>
+      <ul className="list-none">
+        {listDetail.map((item) => (
+          <li
+            key={item.id}
+            className="py-[0.7rem] text-[0.9rem] hover:bg-[#eaeded] rounded-md cursor-pointer"
+          >
+            {item.menuItem}
           </li>
         ))}
       </ul>
     </div>
   );
 };
+

@@ -14,8 +14,8 @@ const NavBar = () => {
     <>
       <div id="Navbar-container" className="flexBox">
         <div className="leftBarSection">
-          <div onClick={() => openButton()}><MenuIcon /></div>
-          <div className="bold">All</div>
+          <div onClick={() => openButton()}><MenuIcon />All</div>
+          {/* <div className="bold">All</div> */}
           <LeftBar />
         </div>
         <div className="Navbar-menu">
