@@ -12,7 +12,7 @@ const NavBar = () => {
 
   return (
     <>
-      <div id="Navbar-container" className="flexBox">
+      <div className=" flex justify-evenly items-center bg-[#232f3e] pt-16">
         <div className="leftBarSection">
           <div onClick={() => openButton()}><MenuIcon />All</div>
           {/* <div className="bold">All</div> */}
