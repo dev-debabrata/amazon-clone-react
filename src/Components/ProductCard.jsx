@@ -4,7 +4,7 @@ export const ProductCard = (props) => {
   const { title, img, offer } = props;
   return (
     <>
-      <div className="bg-white py-4 text-black w-full max-w-[400px] mx-2 flex flex-col justify-evenly">
+      <div className="bg-white py-4 relative z-10 text-black w-full max-w-[400px] mx-2 flex flex-col justify-evenly">
         <div>
           <h1 className=" px-4 overflow-hidden">{title}</h1>
         </div>
@@ -23,7 +23,7 @@ export const ProductCard2 = (props) => {
   const { title, Detail } = props;
   return (
     <>
-      <div className="bg-white py-4 text-black w-full max-w-[400px] mx-2 flex flex-col justify-evenly">
+      <div className="bg-white py-4 relative z-10 text-black w-full max-w-[400px] mx-2 flex flex-col justify-evenly">
         <div>
           <h1 className="px-4 overflow-hidden">{title}</h1>
         </div>

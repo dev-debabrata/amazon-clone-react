@@ -24,7 +24,7 @@ const PrimeSlider = () => {
 
   return (
     <>
-      <div>
+      <div className=" mx-4 h-[380px]">
         <Slider {...settings}>
           <div>
             <img
@@ -58,20 +58,6 @@ const PrimeSlider = () => {
             <img
               style={styles.sliderImage}
               src={assetsImg.BannerImg4}
-              alt=""
-            />
-          </div>
-          <div>
-            <img
-              style={styles.sliderImage}
-              src={assetsImg.BannerImg5}
-              alt=""
-            />
-          </div>
-          <div>
-            <img
-              style={styles.sliderImage}
-              src={assetsImg.BannerImg6}
               alt=""
             />
           </div>

@@ -124,13 +124,13 @@ a {
 
 /* NavBar */
 
-#Navbar-container {
+/* #Navbar-container {
   background-color: #232f3e;
   justify-content: space-evenly;
   padding-top: 4rem;
-}
+} */
 
-.Navbar-menu ul {
+/* .Navbar-menu ul {
   list-style: none;
 }
 .Navbar-menu-item {
@@ -140,11 +140,11 @@ a {
   font-weight: 600;
   border: 1px solid transparent;
   transition: 0.3s all ease;
-}
-.Navbar-menu-item:hover {
+} */
+/* .Navbar-menu-item:hover {
   border: 1px solid white;
-}
-.leftBarSection {
+} */
+/* .leftBarSection {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -154,8 +154,8 @@ a {
 .leftBarSection p {
   text-align: center;
   line-height: 1rem;
-}
-.between-Border {
+} */
+/* .between-Border {
   height: 1rem;
   width: 2px;
   margin: 0 0.5rem;
@@ -164,4 +164,4 @@ a {
 .offer-section > div > p {
   font-weight: 700;
   font-size: 1.2rem;
-}
+} */
