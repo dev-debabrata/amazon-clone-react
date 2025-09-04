@@ -32,7 +32,7 @@ const Header = () => {
           </div>
         </div>
         <div className="flex-1 rounded-[6px]">
-          <div className="bg-white rounded-[6px] m-1 flex justify-center items-center h-11">
+          <div className="bg-white rounded-[6px] m-1 flex justify-center items-center h-11 border border-transparent focus-within:ring-3 focus-within:ring-[#f08804]">
             <select className="bg-[#dadada] text-black text-[0.9rem] p-2 rounded-l-[6px] h-11 border-0 outline-none">
               <option defaultValue="all">
                 All Categories
