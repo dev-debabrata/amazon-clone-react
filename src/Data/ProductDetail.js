@@ -59,9 +59,6 @@ import ProductIconImg_5 from "../assets/ProductImage/productIcon5.jpg";
 // import Iphone_12_White from "../assets/ProductImage/iphone12-White.jpg";
 // import Apple_13pro from "../assets/ProductImage/Apple-iPhone-13Pro-Graphite.jpg";
 
-
-
-
 export const ProductDetail = [
   {
     id: 101,
@@ -713,7 +710,7 @@ export const ProductDetail = [
 ];
 
 
-
+////////////// Watchs Deals ///////////////////////////
 
 
 
@@ -1159,6 +1156,22 @@ export const WatchDetail = [
   },
 ];
 
+
+
+
+
+////////////// Laptops Deals ///////////////////////////
+import Dell_XPS_15 from "../assets/ProductImage/laptopDeals/dell-xps-15.jpg";
+import Lenovo_Thinkpad from "../assets/ProductImage/laptopDeals/lenovo-thinkpad-x1-carbon.jpg";
+import Asus_Zenbook from "../assets/ProductImage/laptopDeals/asus-zenbook-pro-duo-ux582.jpg";
+import Hp_Spectre from "../assets/ProductImage/laptopDeals/hp-spectre-x360.jpg";
+import Apple_Macbook_Pro from "../assets/ProductImage/laptopDeals/apple-macbook-pro.jpg";
+import MSI_Raider from "../assets/ProductImage/laptopDeals/msi-ge76-raider.jpg";
+import Razer_Blade from "../assets/ProductImage/laptopDeals/razer-blade-15.jpg";
+import Dell_G5 from "../assets/ProductImage/laptopDeals/dell-g5-15.jpg";
+import LG_Gram from "../assets/ProductImage/laptopDeals/lg-gram-17.jpg";
+
+
 export const LaptopDetail = [
   {
     id: 123456,
@@ -1169,7 +1182,7 @@ export const LaptopDetail = [
     delivery: "Monday, May 23",
     price: "84999",
     status: "In stock",
-    image: "dell-xps-15.jpg",
+    image: Dell_XPS_15,
     about: [
       "Experience stunning visuals with the Dell XPS 15 laptop",
       "Featuring a 15.6-inch 4K OLED display, you'll enjoy vibrant colors and deep blacks",
@@ -1187,7 +1200,7 @@ export const LaptopDetail = [
     delivery: "Friday, May 27",
     price: "79999",
     status: "In stock",
-    image: "lenovo-thinkpad-x1-carbon.jpg",
+    image: Lenovo_Thinkpad,
     about: [
       "The Lenovo ThinkPad X1 Carbon is the ultimate business laptop",
       "Featuring a 14-inch Full HD display and up to 18.3 hours of battery life",
@@ -1206,7 +1219,7 @@ export const LaptopDetail = [
     delivery: "Tuesday, May 24",
     price: "189999",
     status: "In stock",
-    image: "asus-zenbook-pro-duo-ux582.jpg",
+    image: Asus_Zenbook,
     about: [
       "Experience the future of computing with the Asus ZenBook Pro Duo UX582",
       "Featuring a 15.6-inch 4K OLED display and a secondary 14-inch 4K touchscreen display",
@@ -1225,7 +1238,7 @@ export const LaptopDetail = [
     delivery: "Thursday, May 26",
     price: "119999",
     status: "In stock",
-    image: "hp-spectre-x360.jpg",
+    image: Hp_Spectre,
     about: [
       "The HP Spectre x360 is the ultimate 2-in-1 laptop",
       "Featuring a 13.3-inch Full HD touchscreen display that rotates 360 degrees",
@@ -1244,7 +1257,7 @@ export const LaptopDetail = [
     delivery: "Wednesday, May 25",
     price: "179999",
     status: "In stock",
-    image: "apple-macbook-pro.jpg",
+    image: Apple_Macbook_Pro,
     about: [
       "Experience the power and beauty of the Apple MacBook Pro",
       "Featuring a 16-inch Retina display with True Tone technology",
@@ -1262,7 +1275,7 @@ export const LaptopDetail = [
     delivery: "Monday, May 23",
     price: "147999",
     status: "In stock",
-    image: "msi-ge76-raider.jpg",
+    image: MSI_Raider,
     about: [
       "Dominate your gaming competition with the MSI GE76 Raider",
       "Featuring a 17.3-inch Full HD display with 240Hz refresh rate and 3ms response time",
@@ -1281,7 +1294,7 @@ export const LaptopDetail = [
     delivery: "Wednesday, May 25",
     price: "164999",
     status: "In stock",
-    image: "razer-blade-15.jpg",
+    image: Razer_Blade,
     about: [
       "Experience the ultimate gaming laptop with the Razer Blade 15",
       "Featuring a 15.6-inch Full HD display with 144Hz refresh rate and 3ms response time",
@@ -1300,7 +1313,7 @@ export const LaptopDetail = [
     delivery: "Thursday, May 26",
     price: "69999",
     status: "In stock",
-    image: "dell-g5-15.jpg",
+    image: Dell_G5,
     about: [
       "Get the perfect balance of performance and affordability with the Dell G5 15 gaming laptop",
       "Featuring a 15.6-inch Full HD display with 120Hz refresh rate",
@@ -1319,7 +1332,7 @@ export const LaptopDetail = [
     delivery: "Friday, May 27",
     price: "119999",
     status: "In stock",
-    image: "lg-gram-17.jpg",
+    image: LG_Gram,
     about: [
       "Experience lightweight portability with the LG Gram 17 laptop",
       "Featuring a 17-inch Full HD display and weighing only 1.35 kg",
@@ -1329,6 +1342,20 @@ export const LaptopDetail = [
     ],
   },
 ];
+
+
+
+
+////////////// Headphones Deals ///////////////////////////
+import Sony_WH from "../assets/ProductImage/headphonesDeals/sony-wh-1000xm4.jpg";
+import Bose_QuietComfort from "../assets/ProductImage/headphonesDeals/bose-quietcomfort-35-ii.jpg";
+import Sennheiser_Momentum from "../assets/ProductImage/headphonesDeals/sennheiser-momentum-3.jpg";
+import Jabra_Elite from "../assets/ProductImage/headphonesDeals/jabra-elite-85h.jpg";
+import Apple_Airpods_Pro from "../assets/ProductImage/headphonesDeals/apple-airpods-pro.jpg";
+import Bowers_Wilkins from "../assets/ProductImage/headphonesDeals/bowers-wilkins-px7.jpg";
+import Beats_Studio3 from "../assets/ProductImage/headphonesDeals/beats-studio3-wireless.jpg";
+import JBL_Live from "../assets/ProductImage/headphonesDeals/jbl-live-650btnc.jpg";
+// import LG_Gram from "../assets/ProductImage/laptopDeals/lg-gram-17.jpg";
 
 export const headphonesDetail = [
   {
@@ -1340,7 +1367,7 @@ export const headphonesDetail = [
     delivery: "Monday, May 23",
     price: "29990",
     status: "In stock",
-    image: "sony-wh-1000xm4.jpg",
+    image: Sony_WH,
     about: [
       "Experience industry-leading noise cancellation with the Sony WH-1000XM4 headphones",
       "Featuring 40mm drivers for powerful, balanced sound",
@@ -1359,7 +1386,7 @@ export const headphonesDetail = [
     delivery: "Wednesday, May 25",
     price: "26900",
     status: "In stock",
-    image: "bose-quietcomfort-35-ii.jpg",
+    image: Bose_QuietComfort,
     about: [
       "Experience the ultimate in noise-cancelling headphones with the Bose QuietComfort 35 II",
       "Featuring Alexa and Google Assistant voice control",
@@ -1378,7 +1405,7 @@ export const headphonesDetail = [
     delivery: "Thursday, May 26",
     price: "38990",
     status: "In stock",
-    image: "sennheiser-momentum-3.jpg",
+    image: Sennheiser_Momentum,
     about: [
       "Experience superior sound quality with the Sennheiser Momentum 3 headphones",
       "Featuring active noise-cancelling technology for immersive listening",
@@ -1397,7 +1424,7 @@ export const headphonesDetail = [
     delivery: "Friday, May 27",
     price: "24999",
     status: "In stock",
-    image: "jabra-elite-85h.jpg",
+    image: Jabra_Elite,
     about: [
       "Experience the best-in-class noise-cancelling with the Jabra Elite 85h headphones",
       "Featuring advanced SmartSound technology for personalized sound",
@@ -1415,7 +1442,7 @@ export const headphonesDetail = [
     delivery: "Monday, May 30",
     price: "24900",
     status: "In stock",
-    image: "apple-airpods-pro.jpg",
+    image: Apple_Airpods_Pro,
     about: [
       "Experience the magic of AirPods with the Apple AirPods Pro",
       "Featuring active noise cancellation for immersive listening",
@@ -1434,7 +1461,7 @@ export const headphonesDetail = [
     delivery: "Wednesday, Jun 1",
     price: "43999",
     status: "In stock",
-    image: "bowers-wilkins-px7.jpg",
+    image: Bowers_Wilkins,
     about: [
       "Experience the best of wireless headphones with the Bowers & Wilkins PX7",
       "Featuring adaptive noise cancellation for customizable listening",
@@ -1453,7 +1480,7 @@ export const headphonesDetail = [
     delivery: "Thursday, Jun 2",
     price: "27900",
     status: "In stock",
-    image: "beats-studio3-wireless.jpg",
+    image: Beats_Studio3,
     about: [
       "Experience the iconic Beats sound with the Beats Studio3 Wireless headphones",
       "Featuring active noise cancellation for immersive listening",
@@ -1472,7 +1499,7 @@ export const headphonesDetail = [
     delivery: "Friday, Jun 3",
     price: "17999",
     status: "In stock",
-    image: "jbl-live-650btnc.jpg",
+    image: JBL_Live,
     about: [
       "Experience powerful sound and noise cancellation with the JBL Live 650BTNC headphones",
       "Featuring a massive 40mm driver for high-quality sound",
