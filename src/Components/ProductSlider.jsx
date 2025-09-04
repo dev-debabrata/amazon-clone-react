@@ -7,27 +7,11 @@ import { TodaysDeals } from "../Data/SliderDetail";
 
 const ProductSlider = () => {
 
-  const styles = {
-    container: {
-      backgroundColor: '#fff',
-      margin: '1rem'
-    },
-    titleBox: {
-      display: 'flex',
-      justifyContent: 'start',
-      padding: '0 5px',
-      alignItems: 'center'
-    },
-    h1: {
-      color: 'black'
-    }
-  };
-
   return (
     <>
-      <div style={styles.container}>
-        <div style={styles.titleBox}>
-          <h1 style={styles.h1}>Today's Deals </h1>
+      <div className=" relative bg-white m-4 p-4">
+        <div className="flex justify-start items-center px-[5px]">
+          <h1 className=" text-black">Today's Deals </h1>
           <span className="text-[#007185] no-underline cursor-pointer transition-all duration-300 ease-in-out px-4 overflow-hidden hover:text-red-500">See all deals</span>
         </div>
         <ProductCardSlider Product={TodaysDeals} />
@@ -38,9 +22,9 @@ const ProductSlider = () => {
       <ProductCardSlider Product={LaptopDetail} />
       <ProductCardSlider Product={headphonesDetail} />
 
-      <div style={styles.container}>
-        <div style={styles.titleBox}>
-          <h1 style={styles.h1}>Today's Deals </h1>
+      <div className=" relative bg-white m-4 p-4">
+        <div className="flex justify-start items-center px-[5px]">
+          <h1 className=" text-black">Today's Deals </h1>
           <span className="text-[#007185] no-underline cursor-pointer transition-all duration-300 ease-in-out px-4 overflow-hidden hover:text-red-500">See all deals</span>
         </div>
         <ProductCardSlider Product={LaptopDetail} />
@@ -87,7 +71,7 @@ const ProductCardSlider = ({ Product }) => {
   };
 
   return (
-    <Slider {...settings2} className="slierCarousel">
+    <Slider {...settings2} className=" relative bg-white mx-4 p-4">
       {Product.map((item) => (
         <div><ProductCard2
           id={item.id}

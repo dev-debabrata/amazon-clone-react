@@ -2,7 +2,8 @@ import React, { useContext } from "react";
 import NavBar from "./NavBar";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import SearchIcon from "@mui/icons-material/Search";
-import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
+// import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 import { Link } from "react-router-dom";
 import CartContext from "../ContextApi/CartContext";
@@ -13,26 +14,26 @@ const Header = () => {
 
   return (
     <>
-      <div className="header-container">
-        <div className="header-logoBar flexBox">
-          <div className="logo">
+      <div className="flex justify-between items-center h-[60px] py-2 fixed left-0 right-0 z-[999] bg-[#131921]">
+        <div className=" mx-4 flex justify-center items-center">
+          <div className=" w-28 border border-transparent hover:border-white p-2 h-12">
             <Link to={'/'}>
-              <img className="image" src={assetsImg.amazonLogo} alt="" />
+              <img className=" w-full" src={assetsImg.amazonLogo} alt="" />
             </Link>
           </div>
-          <div className="header-addSelector flexBox">
+          <div className=" flex justify-center items-center text-sm p-2 h-12 border border-transparent hover:border-white m-0">
             <div>
               <LocationOnIcon />
             </div>
-            <div className="menu-items" style={{ margin: "0" }}>
-              <span>Hello</span>
-              <p className="bold">Select Your Address</p>
+            <div className=" " >
+              <span className="text-[12px] text-[#d7cece]">Hello</span>
+              <p className="font-semibold capitalize">Select Your Address</p>
             </div>
           </div>
         </div>
-        <div className="header-searchBar">
-          <div className="headerSearchBar flexBox">
-            <select id="header-category">
+        <div className="flex-1 rounded-[6px]">
+          <div className="bg-white rounded-[6px] m-1 flex justify-center items-center h-11">
+            <select className="bg-[#dadada] text-black text-[0.9rem] p-2 rounded-l-[6px] h-11 border-0 outline-none">
               <option defaultValue="all">
                 All Categories
               </option>
@@ -41,46 +42,45 @@ const Header = () => {
               <option value="audi">Audi</option>
             </select>
             <input
-              className="searchBar"
+              className="text-xl flex-1 px-3 h-fit text-black border-0 outline-none"
               type="text"
               placeholder="Search Amazon.in"
             />
-            <button className="searchButton">
+            <button className="bg-[#f3a847] text-[#131921] px-3 rounded-r-[6px] h-11 border-0 outline-none">
               <SearchIcon />
             </button>
           </div>
         </div>
-        <div className="header-menuBar flexBox">
-          <div className="menu-items flexBox">
+        <div className=" mx-4 flex justify-center items-center">
+          <div className="text-sm p-2 h-12 border border-transparent hover:border-white flex justify-center items-center">
 
-            <div className="flag flexBox">
+            <div className=" gap-2 flex justify-center items-center">
               <img src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/4.1.4/flags/4x3/in.svg" />
-              <p className="bold">En</p>
+              <p className="font-semibold capitalize">EN</p>
             </div>
-
-            <div className="downArrow">
-              <ArrowDropDownIcon />
-            </div>
-
           </div>
-          <div className="menu-items">
+          <div className=" px-1">
+            <ArrowDropDownIcon />
+          </div>
+
+          <div className="text-[12px] p-2 h-12 border border-transparent hover:border-white">
             <span>
               Hello, <span>Sign in</span>
             </span>
-            <p className="bold">Account & List</p>
+            <p className="font-semibold capitalize">Account & List</p>
           </div>
-          <div className="menu-items">
+          <div className="text-[12px] p-2 h-12 border border-transparent hover:border-white">
             <span>Returns</span>
-            <p className="bold">& Orders</p>
+            <p className="font-semibold capitalize">& Orders</p>
           </div>
           <Link to={"/CartPage"}>
-            <div className="menu-items flexBox">
-              <div className="bold">
-                <AddShoppingCartIcon />
-                <span>{productList.length}</span>
-              </div>
-              <div>
-                <p>Cart</p>
+            <div className="text-sm p-2 h-12 border border-transparent hover:border-white flex justify-center items-center">
+              <div className="font-semibold capitalize flex flex-col justify-center items-start">
+                <span className=" px-2 py-0 text-base text-[#f08804]">{productList.length}</span>
+                <div className=" flex ">
+                  <ShoppingCartIcon />
+                  <p>Cart</p>
+                </div>
               </div>
             </div>
           </Link>
