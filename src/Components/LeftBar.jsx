@@ -45,11 +45,18 @@ const LeftBar = () => {
     <>
       <div className={`${open ? "fixed inset-0 z-[999] bg-[#000000bd] block" : "hidden"}`}>
         <div className={`fixed top-0 left-0 w-[26rem] bg-white overflow-hidden transition-transform duration-300 ${open ? "translate-x-0" : "-translate-x-full"}`}>
-          <div className="bg-[#232f3e] sticky left-0 right-0 py-4 px-6 flex items-center gap-3 text-white text-[1.2rem] font-semibold">
-            <div className="p-2 leading-4">
+          <div className="bg-[#232f3e] sticky left-0 right-0 py-4 px-6 flex items-center text-white text-[1.2rem] font-semibold justify-between">
+            <div className=" flex gap-2 items-center p-2 leading-4">
               <AccountCircleIcon />
+              <span>Hello, sign In</span>
             </div>
-            <span>Hello, sign In</span>
+
+            <button
+              className="p-1 border text-white hover:border-none cursor-pointer"
+              onClick={closeButton}
+            >
+              <CloseIcon className="text-xl" />
+            </button>
           </div>
 
           <div className="p-4">
@@ -59,12 +66,7 @@ const LeftBar = () => {
             <LeftMenuBox title="Programs & Features" listDetail={ProgramsFeatures} />
           </div>
 
-          <button
-            className="absolute top-12 right-0 p-4 bg-transparent border-none text-black hover:text-[#111] cursor-pointer"
-            onClick={closeButton}
-          >
-            <CloseIcon className="text-xl" />
-          </button>
+
         </div>
       </div>
     </>
