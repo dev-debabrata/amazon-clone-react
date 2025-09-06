@@ -418,7 +418,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 123465656543,
+    id: 106,
     name: "Apple iPhone 12 Pro Max - White",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -476,7 +476,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 2356346363,
+    id: 107,
     name: "Apple iPhone 13 Pro - Graphite",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -534,7 +534,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 2356346363,
+    id: 108,
     name: "Apple iPhone 13 Pro Max - Graphite",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -592,7 +592,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 23563465473,
+    id: 109,
     name: "Apple iPhone 14 Pro Max",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -650,7 +650,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 235634473,
+    id: 110,
     name: "Apple iPhone 14 - Midnight",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -711,12 +711,20 @@ export const ProductDetail = [
 
 
 ////////////// Watchs Deals ///////////////////////////
+import Fire_Bolt from "../assets/ProductImage/watchDeals/Fire-Boltt-Phoenix-Smart.jpg";
+import BeatXP from "../assets/ProductImage/watchDeals/beatXP-Vega.jpg";
+import Noise_Pulse from "../assets/ProductImage/watchDeals/Noise-PulseGo-Buzz-Smart.jpg";
+import Boat_Wave from "../assets/ProductImage/watchDeals/boAt-Wave-Call-Smart-Watch.jpg";
+import BeatXP_Marv from "../assets/ProductImage/watchDeals/beatXP-Marv-Super.jpg";
+import Noise_Pulse_2 from "../assets/ProductImage/watchDeals/Noise-Pulse2-Max-Advanced.jpg";
+import Vibez_Ornate from "../assets/ProductImage/watchDeals/Vibezby-Lifelong-Ornate-Smartwatch.jpg";
+import Vibez from "../assets/ProductImage/watchDeals/Vibezby-Lifelong-Smartwatch.jpg";
 
 
 
 export const WatchDetail = [
   {
-    id: 789654,
+    id: 201,
     name: "Fire-Boltt Phoenix Smart",
     rating: "34565",
     review: "1000",
@@ -724,7 +732,7 @@ export const WatchDetail = [
     delivery: "Wednesday, Aug 18",
     price: "1799",
     status: "In stock",
-    image: "Fire-Boltt-Phoenix-Smart.jpg",
+    image: Fire_Bolt,
     colors: [
       {
         id: 1,
@@ -770,7 +778,7 @@ export const WatchDetail = [
     ],
   },
   {
-    id: 471852,
+    id: 202,
     name: "beatXP Vega 1.43 AMOLED 466",
     rating: "34565",
     review: "1000",
@@ -778,7 +786,7 @@ export const WatchDetail = [
     delivery: "Wednesday, Aug 18",
     price: "1,999",
     status: "In stock",
-    image: "beatXP-Vega.jpg",
+    image: BeatXP,
     colors: [
       {
         id: 1,
@@ -825,7 +833,7 @@ export const WatchDetail = [
     ],
   },
   {
-    id: 321456,
+    id: 203,
     name: "Noise Pulse Go Buzz Smart",
     rating: "34565",
     review: "1000",
@@ -833,7 +841,7 @@ export const WatchDetail = [
     delivery: "Wednesday, Aug 18",
     price: "1699",
     status: "In stock",
-    image: "Noise-PulseGo-Buzz-Smart.jpg",
+    image: Noise_Pulse,
     colors: [
       {
         id: 1,
@@ -880,7 +888,7 @@ export const WatchDetail = [
     ],
   },
   {
-    id: 741963,
+    id: 204,
     name: "boAt Wave Call Smart Watch",
     rating: "34565",
     review: "1000",
@@ -888,7 +896,7 @@ export const WatchDetail = [
     delivery: "Wednesday, Aug 8",
     price: "1799",
     status: "In stock",
-    image: "boAt-Wave-Call-Smart-Watch.jpg",
+    image: Boat_Wave,
     colors: [
       {
         id: 1,
@@ -935,7 +943,7 @@ export const WatchDetail = [
     ],
   },
   {
-    id: 852654,
+    id: 205,
     name: "beatXP Marv Super 1.99",
     rating: "34565",
     review: "1000",
@@ -943,7 +951,7 @@ export const WatchDetail = [
     delivery: "Wednesday, Aug 14",
     price: "2099",
     status: "In stock",
-    image: "beatXP-Marv-Super.jpg",
+    image: BeatXP_Marv,
     colors: [
       {
         id: 1,
@@ -990,7 +998,7 @@ export const WatchDetail = [
     ],
   },
   {
-    id: 753951,
+    id: 206,
     name: "Noise Pulse 2 Max Advanced",
     rating: "637357",
     review: "1000",
@@ -998,7 +1006,7 @@ export const WatchDetail = [
     delivery: "Wednesday, Aug 1",
     price: "1999",
     status: "In stock",
-    image: "Noise-Pulse2-Max-Advanced.jpg",
+    image: Noise_Pulse_2,
     colors: [
       {
         id: 1,
@@ -1045,7 +1053,7 @@ export const WatchDetail = [
     ],
   },
   {
-    id: 789654,
+    id: 207,
     name: "Vibez by Lifelong Ornate Smartwatch",
     rating: "637357",
     review: "1000",
@@ -1053,7 +1061,7 @@ export const WatchDetail = [
     delivery: "Wednesday, May 14",
     price: "2498",
     status: "In stock",
-    image: "Vibezby-Lifelong-Ornate-Smartwatch.jpg",
+    image: Vibez_Ornate,
     colors: [
       {
         id: 1,
@@ -1100,7 +1108,7 @@ export const WatchDetail = [
     ],
   },
   {
-    id: 456321,
+    id: 208,
     name: "Vibez by Lifelong Smartwatch",
     rating: "637357",
     review: "1000",
@@ -1108,7 +1116,7 @@ export const WatchDetail = [
     delivery: "Wednesday, Aug 7",
     price: "1998",
     status: "In stock",
-    image: "Vibezby-Lifelong-Smartwatch.jpg",
+    image: Vibez,
     colors: [
       {
         id: 1,
