@@ -1,50 +1,63 @@
 //////// Iphone - 10
-import Iphone10 from "../assets/ProductImage/iphoneImg/iphone10.jpg";
-import Iphone10_black from "../assets/ProductImage/iphoneImg/iphone10-black.jpg";
-import Iphone10_white from "../assets/ProductImage/iphoneImg/iphone10-white.jpg";
-import Iphone10_gold from "../assets/ProductImage/iphoneImg/iphone10-gold.jpg";
+import Iphone10 from "../assets/ProductImage/iphoneImg/iphone10/iphone10.jpg";
+import Iphone10_black from "../assets/ProductImage/iphoneImg/iphone10/iphone10-black.jpg";
+import Iphone10_white from "../assets/ProductImage/iphoneImg/iphone10/iphone10-white.jpg";
+import Iphone10_gold from "../assets/ProductImage/iphoneImg/iphone10/iphone10-gold.jpg";
 
-import Iphone10_small01 from "../assets/ProductImage/iphoneImg/iphone10-small-img01.jpg";
-import Iphone10_small02 from "../assets/ProductImage/iphoneImg/iphone10-small-img02.jpg";
-import Iphone10_small03 from "../assets/ProductImage/iphoneImg/iphone10-small-img03.jpg";
-import Iphone10_small04 from "../assets/ProductImage/iphoneImg/iphone10-small-img04.jpg";
-import Iphone10_small05 from "../assets/ProductImage/iphoneImg/iphone10-small-img05.jpg";
-import Iphone10_small06 from "../assets/ProductImage/iphoneImg/iphone10-small-img06.jpg";
-import Iphone10_small07 from "../assets/ProductImage/iphoneImg/iphone10-small-img07.jpg";
+import Iphone10_small01 from "../assets/ProductImage/iphoneImg/iphone10/iphone10-small-img01.jpg";
+import Iphone10_small02 from "../assets/ProductImage/iphoneImg/iphone10/iphone10-small-img02.jpg";
+import Iphone10_small03 from "../assets/ProductImage/iphoneImg/iphone10/iphone10-small-img03.jpg";
+import Iphone10_small04 from "../assets/ProductImage/iphoneImg/iphone10/iphone10-small-img04.jpg";
+import Iphone10_small05 from "../assets/ProductImage/iphoneImg/iphone10/iphone10-small-img05.jpg";
+import Iphone10_small06 from "../assets/ProductImage/iphoneImg/iphone10/iphone10-small-img06.jpg";
+import Iphone10_small07 from "../assets/ProductImage/iphoneImg/iphone10/iphone10-small-img07.jpg";
 
 //////// Iphone - 11
-import Iphone11 from "../assets/ProductImage/iphoneImg/iphone11.jpg";
-import Iphone11_black from "../assets/ProductImage/iphoneImg/iphone11-black.jpg";
-import Iphone11_white from "../assets/ProductImage/iphoneImg/iphone11-white.jpg";
-import Iphone11_red from "../assets/ProductImage/iphoneImg/iphone11-red.jpg";
-import Iphone11_purple from "../assets/ProductImage/iphoneImg/iphone11-purple.jpg";
-import Iphone11_yellow from "../assets/ProductImage/iphoneImg/iphone11-yellow.jpg";
-import Iphone11_green from "../assets/ProductImage/iphoneImg/iphone11-green.jpg";
+import Iphone11 from "../assets/ProductImage/iphoneImg/iphone11/iphone11.jpg";
+import Iphone11_black from "../assets/ProductImage/iphoneImg/iphone11/iphone11-black.jpg";
+import Iphone11_white from "../assets/ProductImage/iphoneImg/iphone11/iphone11-white.jpg";
+import Iphone11_red from "../assets/ProductImage/iphoneImg/iphone11/iphone11-red.jpg";
+import Iphone11_purple from "../assets/ProductImage/iphoneImg/iphone11/iphone11-purple.jpg";
+import Iphone11_yellow from "../assets/ProductImage/iphoneImg/iphone11/iphone11-yellow.jpg";
+import Iphone11_green from "../assets/ProductImage/iphoneImg/iphone11/iphone11-green.jpg";
 
-import Iphone11_small01 from "../assets/ProductImage/iphoneImg/iphone11-small-img01.jpg";
-import Iphone11_small02 from "../assets/ProductImage/iphoneImg/iphone11-small-img02.jpg";
-import Iphone11_small03 from "../assets/ProductImage/iphoneImg/iphone11-small-img03.jpg";
-import Iphone11_small04 from "../assets/ProductImage/iphoneImg/iphone11-small-img04.jpg";
-import Iphone11_small05 from "../assets/ProductImage/iphoneImg/iphone11-small-img05.jpg";
-import Iphone11_small06 from "../assets/ProductImage/iphoneImg/iphone11-small-img06.jpg";
-import Iphone11_small07 from "../assets/ProductImage/iphoneImg/iphone11-small-img07.jpg";
+import Iphone11_small01 from "../assets/ProductImage/iphoneImg/iphone11/iphone11-small-img01.jpg";
+import Iphone11_small02 from "../assets/ProductImage/iphoneImg/iphone11/iphone11-small-img02.jpg";
+import Iphone11_small03 from "../assets/ProductImage/iphoneImg/iphone11/iphone11-small-img03.jpg";
+import Iphone11_small04 from "../assets/ProductImage/iphoneImg/iphone11/iphone11-small-img04.jpg";
+import Iphone11_small05 from "../assets/ProductImage/iphoneImg/iphone11/iphone11-small-img05.jpg";
+import Iphone11_small06 from "../assets/ProductImage/iphoneImg/iphone11/iphone11-small-img06.jpg";
+import Iphone11_small07 from "../assets/ProductImage/iphoneImg/iphone11/iphone11-small-img07.jpg";
 
 
 ////////// Iphone - 12
-import Iphone12 from "../assets/ProductImage/iphoneImg/iphone12.jpg";
+import Iphone12 from "../assets/ProductImage/iphoneImg/iphone12/iphone12.jpg";
+import Iphone12_white from "../assets/ProductImage/iphoneImg/iphone12/iphone12-white.jpg";
+import Iphone12_black from "../assets/ProductImage/iphoneImg/iphone12/iphone12-black.jpg";
+import Iphone12_red from "../assets/ProductImage/iphoneImg/iphone12/iphone12-red.jpg";
+import Iphone12_purple from "../assets/ProductImage/iphoneImg/iphone12/iphone12-purple.jpg";
+
+import Iphone12_01 from "../assets/ProductImage/iphoneImg/iphone12/iphone12.jpg";
+import Iphone12_02 from "../assets/ProductImage/iphoneImg/iphone12/iphone12-02.jpg";
+import Iphone12_03 from "../assets/ProductImage/iphoneImg/iphone12/iphone12-03.jpg";
+import Iphone12_04 from "../assets/ProductImage/iphoneImg/iphone12/iphone12-04.jpg";
+import Iphone12_05 from "../assets/ProductImage/iphoneImg/iphone12/iphone12-05.jpg";
+import Iphone12_06 from "../assets/ProductImage/iphoneImg/iphone12/iphone12-06.jpg";
+import Iphone12_07 from "../assets/ProductImage/iphoneImg/iphone12/iphone12-07.jpg";
+
 
 
 ////////// Iphone - 13
-import Iphone13 from "../assets/ProductImage/iphoneImg/iphone13.jpg";
+import Iphone13 from "../assets/ProductImage/iphoneImg/iphone13/iphone13.jpg";
 
 ///////// Iphone - 13 Mini
-import Iphone13Mini from "../assets/ProductImage/iphoneImg/iphone13mini.jpg";
+import Iphone13Mini from "../assets/ProductImage/iphoneImg/iphone13-mini/iphone13mini.jpg";
 
 ////////// Iphone - 13 Pro
-import Iphone13Pro from "../assets/ProductImage/iphoneImg/iphone13pro.jpg";
+import Iphone13Pro from "../assets/ProductImage/iphoneImg/iphone13pro/iphone13pro.jpg";
 
 ///////// Iphone - 13 Pro Max
-import Iphone13ProMax from "../assets/ProductImage/iphoneImg/iphone13pro-max.jpg";
+import Iphone13ProMax from "../assets/ProductImage/iphoneImg/iphone13pro-max/iphone13pro-max.jpg";
 
 
 import ProductIconImg_1 from "../assets/ProductImage/productIcon1.jpg";
@@ -57,6 +70,11 @@ import ProductIconImg_5 from "../assets/ProductImage/productIcon5.jpg";
 // import Iphone_12_blue from "../assets/ProductImage/iphone12-Blue.jpg";
 // import Iphone_12_White from "../assets/ProductImage/iphone12-White.jpg";
 // import Apple_13pro from "../assets/ProductImage/Apple-iPhone-13Pro-Graphite.jpg";
+
+
+
+
+
 
 export const ProductDetail = [
   {
@@ -244,7 +262,7 @@ export const ProductDetail = [
   },
   {
     id: 103,
-    name: "Apple iPhone 12 - Blue",
+    name: "Apple iPhone 12",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
     rating: "34565",
@@ -255,41 +273,78 @@ export const ProductDetail = [
     status: "In stock",
     soldby: "Darshita Electronics",
     image: Iphone12,
+    smallImg: [
+      {
+        id: 1,
+        productId: 102,
+        image: Iphone12_01,
+      },
+      {
+        id: 2,
+        productId: 102,
+        image: Iphone12_02,
+      },
+      {
+        id: 3,
+        productId: 102,
+        image: Iphone12_03,
+      },
+      {
+        id: 4,
+        productId: 102,
+        image: Iphone12_04,
+      },
+      {
+        id: 5,
+        productId: 102,
+        image: Iphone12_05,
+      },
+      {
+        id: 6,
+        productId: 102,
+        image: Iphone12_06,
+      },
+      {
+        id: 7,
+        productId: 102,
+        image: Iphone12_07,
+      },
+    ],
     colors: [
       {
         id: 1,
         productId: 101,
         price: '1,899.00',
-        // image: Iphone_12_blue,
+        image: Iphone12,
         color: 'Blue'
       },
       {
         id: 2,
         productId: 101,
         price: '1,899.00',
-        // image: Iphone_12_White,
+        image: Iphone12_white,
         color: 'White'
       },
       {
         id: 3,
         productId: 101,
         price: '1,899.00',
-        image: ProductIconImg_3,
-        color: 'red3'
+        image: Iphone12_black,
+        color: 'Black'
       },
       {
         id: 4,
         productId: 101,
         price: '1,899.00',
-        image: ProductIconImg_4,
-        color: 'red4'
+        image: Iphone12_red,
+        color: 'Red'
       },
       {
         id: 5,
         productId: 101,
         price: '1,899.00',
-        image: ProductIconImg_5,
-        color: 'red5'
+        image: Iphone12_purple,
+        color: 'Purple'
       },
     ],
     about: [
@@ -302,7 +357,7 @@ export const ProductDetail = [
   },
   {
     id: 104,
-    name: "Apple iPhone 13 Mini - Green",
+    name: "Apple iPhone 13 Mini",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
     rating: "34565",
@@ -313,6 +368,43 @@ export const ProductDetail = [
     status: "In stock",
     soldby: "Darshita Electronics",
     image: Iphone13Mini,
+    smallImg: [
+      {
+        id: 1,
+        productId: 102,
+        image: Iphone11_small01,
+      },
+      {
+        id: 2,
+        productId: 102,
+        image: Iphone11_small02,
+      },
+      {
+        id: 3,
+        productId: 102,
+        image: Iphone11_small03,
+      },
+      {
+        id: 4,
+        productId: 102,
+        image: Iphone11_small04,
+      },
+      {
+        id: 5,
+        productId: 102,
+        image: Iphone11_small05,
+      },
+      {
+        id: 6,
+        productId: 102,
+        image: Iphone11_small06,
+      },
+      {
+        id: 7,
+        productId: 102,
+        image: Iphone11_small07,
+      },
+    ],
     colors: [
       {
         id: 1,
@@ -360,7 +452,7 @@ export const ProductDetail = [
   },
   {
     id: 105,
-    name: "Apple iPhone 13 - Red",
+    name: "Apple iPhone 13",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
     rating: "34565",
@@ -371,6 +463,43 @@ export const ProductDetail = [
     status: "In stock",
     soldby: "Darshita Electronics",
     image: Iphone13,
+    smallImg: [
+      {
+        id: 1,
+        productId: 102,
+        image: Iphone11_small01,
+      },
+      {
+        id: 2,
+        productId: 102,
+        image: Iphone11_small02,
+      },
+      {
+        id: 3,
+        productId: 102,
+        image: Iphone11_small03,
+      },
+      {
+        id: 4,
+        productId: 102,
+        image: Iphone11_small04,
+      },
+      {
+        id: 5,
+        productId: 102,
+        image: Iphone11_small05,
+      },
+      {
+        id: 6,
+        productId: 102,
+        image: Iphone11_small06,
+      },
+      {
+        id: 7,
+        productId: 102,
+        image: Iphone11_small07,
+      },
+    ],
     colors: [
       {
         id: 1,
@@ -418,7 +547,7 @@ export const ProductDetail = [
   },
   {
     id: 106,
-    name: "Apple iPhone 12 Pro Max - White",
+    name: "Apple iPhone 12 Pro Max",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
     rating: "34565",
@@ -429,6 +558,43 @@ export const ProductDetail = [
     status: "In stock",
     soldby: "Darshita Electronics",
     image: "Apple-iPhone12-White.jpg",
+    smallImg: [
+      {
+        id: 1,
+        productId: 102,
+        image: Iphone11_small01,
+      },
+      {
+        id: 2,
+        productId: 102,
+        image: Iphone11_small02,
+      },
+      {
+        id: 3,
+        productId: 102,
+        image: Iphone11_small03,
+      },
+      {
+        id: 4,
+        productId: 102,
+        image: Iphone11_small04,
+      },
+      {
+        id: 5,
+        productId: 102,
+        image: Iphone11_small05,
+      },
+      {
+        id: 6,
+        productId: 102,
+        image: Iphone11_small06,
+      },
+      {
+        id: 7,
+        productId: 102,
+        image: Iphone11_small07,
+      },
+    ],
     colors: [
       {
         id: 1,
@@ -476,7 +642,7 @@ export const ProductDetail = [
   },
   {
     id: 107,
-    name: "Apple iPhone 13 Pro - Graphite",
+    name: "Apple iPhone 13 Pro",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
     rating: "637357",
@@ -487,6 +653,43 @@ export const ProductDetail = [
     status: "In stock",
     soldby: "Darshita Electronics",
     image: Iphone13Pro,
+    smallImg: [
+      {
+        id: 1,
+        productId: 102,
+        image: Iphone11_small01,
+      },
+      {
+        id: 2,
+        productId: 102,
+        image: Iphone11_small02,
+      },
+      {
+        id: 3,
+        productId: 102,
+        image: Iphone11_small03,
+      },
+      {
+        id: 4,
+        productId: 102,
+        image: Iphone11_small04,
+      },
+      {
+        id: 5,
+        productId: 102,
+        image: Iphone11_small05,
+      },
+      {
+        id: 6,
+        productId: 102,
+        image: Iphone11_small06,
+      },
+      {
+        id: 7,
+        productId: 102,
+        image: Iphone11_small07,
+      },
+    ],
     colors: [
       {
         id: 1,
@@ -534,7 +737,7 @@ export const ProductDetail = [
   },
   {
     id: 108,
-    name: "Apple iPhone 13 Pro Max - Graphite",
+    name: "Apple iPhone 13 Pro Max",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
     rating: "637357",
@@ -545,6 +748,43 @@ export const ProductDetail = [
     status: "In stock",
     soldby: "Darshita Electronics",
     image: Iphone13ProMax,
+    smallImg: [
+      {
+        id: 1,
+        productId: 102,
+        image: Iphone11_small01,
+      },
+      {
+        id: 2,
+        productId: 102,
+        image: Iphone11_small02,
+      },
+      {
+        id: 3,
+        productId: 102,
+        image: Iphone11_small03,
+      },
+      {
+        id: 4,
+        productId: 102,
+        image: Iphone11_small04,
+      },
+      {
+        id: 5,
+        productId: 102,
+        image: Iphone11_small05,
+      },
+      {
+        id: 6,
+        productId: 102,
+        image: Iphone11_small06,
+      },
+      {
+        id: 7,
+        productId: 102,
+        image: Iphone11_small07,
+      },
+    ],
     colors: [
       {
         id: 1,
@@ -603,6 +843,43 @@ export const ProductDetail = [
     status: "In stock",
     soldby: "Darshita Electronics",
     image: "Apple-iPhone-14-Pro-Max.jpg",
+    smallImg: [
+      {
+        id: 1,
+        productId: 102,
+        image: Iphone11_small01,
+      },
+      {
+        id: 2,
+        productId: 102,
+        image: Iphone11_small02,
+      },
+      {
+        id: 3,
+        productId: 102,
+        image: Iphone11_small03,
+      },
+      {
+        id: 4,
+        productId: 102,
+        image: Iphone11_small04,
+      },
+      {
+        id: 5,
+        productId: 102,
+        image: Iphone11_small05,
+      },
+      {
+        id: 6,
+        productId: 102,
+        image: Iphone11_small06,
+      },
+      {
+        id: 7,
+        productId: 102,
+        image: Iphone11_small07,
+      },
+    ],
     colors: [
       {
         id: 1,
@@ -650,7 +927,7 @@ export const ProductDetail = [
   },
   {
     id: 110,
-    name: "Apple iPhone 14 - Midnight",
+    name: "Apple iPhone 14",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
     rating: "637357",
@@ -661,6 +938,43 @@ export const ProductDetail = [
     status: "In stock",
     soldby: "Darshita Electronics",
     image: "Apple-iPhone-14-Midnight.jpg",
+    smallImg: [
+      {
+        id: 1,
+        productId: 102,
+        image: Iphone11_small01,
+      },
+      {
+        id: 2,
+        productId: 102,
+        image: Iphone11_small02,
+      },
+      {
+        id: 3,
+        productId: 102,
+        image: Iphone11_small03,
+      },
+      {
+        id: 4,
+        productId: 102,
+        image: Iphone11_small04,
+      },
+      {
+        id: 5,
+        productId: 102,
+        image: Iphone11_small05,
+      },
+      {
+        id: 6,
+        productId: 102,
+        image: Iphone11_small06,
+      },
+      {
+        id: 7,
+        productId: 102,
+        image: Iphone11_small07,
+      },
+    ],
     colors: [
       {
         id: 1,
