@@ -81,7 +81,7 @@ const ProductPaga = () => {
               <p className=" text-[28px] font-semibold py-2">
                 <sup className="text-sm p-1">₹</sup>
                 {product.price}
-                <sup className="text-xs p-1">00</sup>
+                {/* <sup className="text-xs p-1">00</sup> */}
               </p>
               <div className="py-2">Inclusive of all taxes</div>
               <div>
