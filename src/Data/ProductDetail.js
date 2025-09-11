@@ -51,13 +51,48 @@ import Iphone12_07 from "../assets/ProductImage/iphoneImg/iphone12/iphone12-07.j
 import Iphone13 from "../assets/ProductImage/iphoneImg/iphone13/iphone13.jpg";
 
 ///////// Iphone - 13 Mini
-import Iphone13Mini from "../assets/ProductImage/iphoneImg/iphone13-mini/iphone13mini.jpg";
+import Iphone13Mini from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini.jpg";
+import Iphone13mini_blue from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-blue.jpg";
+import Iphone13mini_white from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-white.jpg";
+import Iphone13mini_graphite from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-graphite.jpg";
+import Iphone13mini_black from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-black.jpg";
+import Iphone13mini_red from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-red.jpg";
+import Iphone13mini_purple from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-purple.jpg";
+
+import Iphone13mini_01 from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-01.jpg";
+import Iphone13mini_02 from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-02.jpg";
+import Iphone13mini_03 from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-03.jpg";
+import Iphone13mini_04 from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-04.jpg";
+import Iphone13mini_05 from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-05.jpg";
+import Iphone13mini_06 from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-06.jpg";
+import Iphone13mini_07 from "../assets/ProductImage/iphoneImg/iphone13mini/iphone13mini-07.jpg";
+
+
 
 ////////// Iphone - 13 Pro
 import Iphone13Pro from "../assets/ProductImage/iphoneImg/iphone13pro/iphone13pro.jpg";
 
 ///////// Iphone - 13 Pro Max
 import Iphone13ProMax from "../assets/ProductImage/iphoneImg/iphone13pro-max/iphone13pro-max.jpg";
+
+
+////////// Iphone - 14
+////////// Iphone - 14pro
+////////// Iphone - 14pro-Max
+
+////////// Iphone - 15
+////////// Iphone - 15pro
+////////// Iphone - 15pro-Max
+
+////////// Iphone - 16
+////////// Iphone - 16pro
+////////// Iphone - 16pro-Max
+
+
+
+
+
+
 
 
 import ProductIconImg_1 from "../assets/ProductImage/productIcon1.jpg";
@@ -372,37 +407,37 @@ export const ProductDetail = [
       {
         id: 1,
         productId: 102,
-        image: Iphone11_small01,
+        image: Iphone13mini_01,
       },
       {
         id: 2,
         productId: 102,
-        image: Iphone11_small02,
+        image: Iphone13mini_02,
       },
       {
         id: 3,
         productId: 102,
-        image: Iphone11_small03,
+        image: Iphone13mini_03,
       },
       {
         id: 4,
         productId: 102,
-        image: Iphone11_small04,
+        image: Iphone13mini_04,
       },
       {
         id: 5,
         productId: 102,
-        image: Iphone11_small05,
+        image: Iphone13mini_05,
       },
       {
         id: 6,
         productId: 102,
-        image: Iphone11_small06,
+        image: Iphone13mini_06,
       },
       {
         id: 7,
         productId: 102,
-        image: Iphone11_small07,
+        image: Iphone13mini_07,
       },
     ],
     colors: [
@@ -410,36 +445,43 @@ export const ProductDetail = [
         id: 1,
         productId: 101,
         price: '1,899.00',
-        image: ProductIconImg_1,
-        color: 'red1'
+        image: Iphone13mini_graphite,
+        color: 'Graphite'
       },
       {
         id: 2,
         productId: 101,
         price: '1,899.00',
-        image: ProductIconImg_2,
-        color: 'red2'
+        image: Iphone13mini_blue,
+        color: 'Blue'
       },
       {
         id: 3,
         productId: 101,
         price: '1,899.00',
-        image: ProductIconImg_3,
-        color: 'red3'
+        image: Iphone13mini_black,
+        color: 'Black'
       },
       {
         id: 4,
         productId: 101,
         price: '1,899.00',
-        image: ProductIconImg_4,
-        color: 'red4'
+        image: Iphone13mini_white,
+        color: 'White'
       },
       {
         id: 5,
         productId: 101,
         price: '1,899.00',
-        image: ProductIconImg_5,
-        color: 'red5'
+        image: Iphone13mini_red,
+        color: 'Red'
+      },
+      {
+        id: 6,
+        productId: 101,
+        price: '1,899.00',
+        image: Iphone13mini_purple,
+        color: 'Purple'
       },
     ],
     about: [
