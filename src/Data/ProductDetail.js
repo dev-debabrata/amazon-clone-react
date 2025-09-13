@@ -1110,6 +1110,312 @@ export const ProductDetail = [
       "Action mode for smooth, steady, handheld videos",
     ],
   },
+  {
+    id: 110,
+    name: "Apple iPhone 15",
+    store: 'Visit the Apple Store',
+    pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
+    rating: "637357",
+    review: "1000",
+    emi: "3440",
+    delivery: "Wednesday, Aug 18",
+    price: "51,900",
+    status: "In stock",
+    soldby: "Darshita Electronics",
+    image: Iphone14,
+    smallImg: [
+      {
+        id: 1,
+        productId: 102,
+        image: Iphone14_01,
+      },
+      {
+        id: 2,
+        productId: 102,
+        image: Iphone14_02,
+      },
+      {
+        id: 3,
+        productId: 102,
+        image: Iphone14_03,
+      },
+      {
+        id: 4,
+        productId: 102,
+        image: Iphone14_04,
+      },
+      {
+        id: 5,
+        productId: 102,
+        image: Iphone14_05,
+      },
+      {
+        id: 6,
+        productId: 102,
+        image: Iphone14_06,
+      },
+      {
+        id: 7,
+        productId: 102,
+        image: Iphone14_07,
+      },
+    ],
+    colors: [
+      {
+        id: 1,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_blue,
+        color: 'Blue'
+      },
+      {
+        id: 2,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_green,
+        color: 'Green'
+      },
+      {
+        id: 3,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_red,
+        color: 'Red'
+      },
+      {
+        id: 4,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_white,
+        color: 'White'
+      },
+      {
+        id: 5,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_black,
+        color: 'Black'
+      },
+      {
+        id: 5,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_purple,
+        color: 'Purple'
+      },
+    ],
+    about: [
+      "17.00 cm (6.7-inch) Super Retina XDR display featuring Always-On and ProMotion",
+      "Dynamic Island, a magical new way to interact with iPhone",
+      "48MP Main camera for up to 4x greater resolution",
+      "Cinematic mode now in 4K Dolby Vision up to 30 fps",
+      "Action mode for smooth, steady, handheld videos",
+    ],
+  },
+  {
+    id: 110,
+    name: "Apple iPhone 15 Pro",
+    store: 'Visit the Apple Store',
+    pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
+    rating: "637357",
+    review: "1000",
+    emi: "3440",
+    delivery: "Wednesday, Aug 18",
+    price: "51,900",
+    status: "In stock",
+    soldby: "Darshita Electronics",
+    image: Iphone14,
+    smallImg: [
+      {
+        id: 1,
+        productId: 102,
+        image: Iphone14_01,
+      },
+      {
+        id: 2,
+        productId: 102,
+        image: Iphone14_02,
+      },
+      {
+        id: 3,
+        productId: 102,
+        image: Iphone14_03,
+      },
+      {
+        id: 4,
+        productId: 102,
+        image: Iphone14_04,
+      },
+      {
+        id: 5,
+        productId: 102,
+        image: Iphone14_05,
+      },
+      {
+        id: 6,
+        productId: 102,
+        image: Iphone14_06,
+      },
+      {
+        id: 7,
+        productId: 102,
+        image: Iphone14_07,
+      },
+    ],
+    colors: [
+      {
+        id: 1,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_blue,
+        color: 'Blue'
+      },
+      {
+        id: 2,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_green,
+        color: 'Green'
+      },
+      {
+        id: 3,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_red,
+        color: 'Red'
+      },
+      {
+        id: 4,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_white,
+        color: 'White'
+      },
+      {
+        id: 5,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_black,
+        color: 'Black'
+      },
+      {
+        id: 5,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_purple,
+        color: 'Purple'
+      },
+    ],
+    about: [
+      "17.00 cm (6.7-inch) Super Retina XDR display featuring Always-On and ProMotion",
+      "Dynamic Island, a magical new way to interact with iPhone",
+      "48MP Main camera for up to 4x greater resolution",
+      "Cinematic mode now in 4K Dolby Vision up to 30 fps",
+      "Action mode for smooth, steady, handheld videos",
+    ],
+  },
+  {
+    id: 110,
+    name: "Apple iPhone 15 Pro Max",
+    store: 'Visit the Apple Store',
+    pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
+    rating: "637357",
+    review: "1000",
+    emi: "3440",
+    delivery: "Wednesday, Aug 18",
+    price: "51,900",
+    status: "In stock",
+    soldby: "Darshita Electronics",
+    image: Iphone14,
+    smallImg: [
+      {
+        id: 1,
+        productId: 102,
+        image: Iphone14_01,
+      },
+      {
+        id: 2,
+        productId: 102,
+        image: Iphone14_02,
+      },
+      {
+        id: 3,
+        productId: 102,
+        image: Iphone14_03,
+      },
+      {
+        id: 4,
+        productId: 102,
+        image: Iphone14_04,
+      },
+      {
+        id: 5,
+        productId: 102,
+        image: Iphone14_05,
+      },
+      {
+        id: 6,
+        productId: 102,
+        image: Iphone14_06,
+      },
+      {
+        id: 7,
+        productId: 102,
+        image: Iphone14_07,
+      },
+    ],
+    colors: [
+      {
+        id: 1,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_blue,
+        color: 'Blue'
+      },
+      {
+        id: 2,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_green,
+        color: 'Green'
+      },
+      {
+        id: 3,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_red,
+        color: 'Red'
+      },
+      {
+        id: 4,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_white,
+        color: 'White'
+      },
+      {
+        id: 5,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_black,
+        color: 'Black'
+      },
+      {
+        id: 5,
+        productId: 101,
+        price: "51,900.00",
+        image: Iphone14_purple,
+        color: 'Purple'
+      },
+    ],
+    about: [
+      "17.00 cm (6.7-inch) Super Retina XDR display featuring Always-On and ProMotion",
+      "Dynamic Island, a magical new way to interact with iPhone",
+      "48MP Main camera for up to 4x greater resolution",
+      "Cinematic mode now in 4K Dolby Vision up to 30 fps",
+      "Action mode for smooth, steady, handheld videos",
+    ],
+  },
 ];
 
 
