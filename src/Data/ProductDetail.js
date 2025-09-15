@@ -140,7 +140,26 @@ import Iphone14pro_max_04 from "../assets/ProductImage/iphoneImg/iphone14pro-max
 import Iphone14pro_max_05 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-05.jpg";
 import Iphone14pro_max_06 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-06.jpg";
 import Iphone14pro_max_07 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-07.jpg";
+
+
+
 ////////// Iphone - 15
+import Iphone15 from "../assets/ProductImage/iphoneImg/iphone15/iphone15.jpg";
+import Iphone15_blue from "../assets/ProductImage/iphoneImg/iphone15/iphone15-blue.jpg";
+import Iphone15_yellow from "../assets/ProductImage/iphoneImg/iphone15/iphone15-yellow.jpg";
+import Iphone15_green from "../assets/ProductImage/iphoneImg/iphone15/iphone15-green.jpg";
+import Iphone15_black from "../assets/ProductImage/iphoneImg/iphone15/iphone15-black.jpg";
+import Iphone15_pink from "../assets/ProductImage/iphoneImg/iphone15/iphone15-pink.jpg";
+
+import Iphone15_01 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-01.jpg";
+import Iphone15_02 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-02.jpg";
+import Iphone15_03 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-03.jpg";
+import Iphone15_04 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-04.jpg";
+import Iphone15_05 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-05.jpg";
+import Iphone15_06 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-06.jpg";
+import Iphone15_07 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-07.jpg";
+
+
 ////////// Iphone - 15pro
 ////////// Iphone - 15pro-Max
 
@@ -1088,7 +1107,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 110,
+    id: 111,
     name: "Apple iPhone 15",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -1099,42 +1118,42 @@ export const ProductDetail = [
     price: "51,900",
     status: "In stock",
     soldby: "Darshita Electronics",
-    image: Iphone14,
+    image: Iphone15,
     smallImg: [
       {
         id: 1,
         productId: 102,
-        image: Iphone14_01,
+        image: Iphone15_01,
       },
       {
         id: 2,
         productId: 102,
-        image: Iphone14_02,
+        image: Iphone15_02,
       },
       {
         id: 3,
         productId: 102,
-        image: Iphone14_03,
+        image: Iphone15_03,
       },
       {
         id: 4,
         productId: 102,
-        image: Iphone14_04,
+        image: Iphone15_04,
       },
       {
         id: 5,
         productId: 102,
-        image: Iphone14_05,
+        image: Iphone15_05,
       },
       {
         id: 6,
         productId: 102,
-        image: Iphone14_06,
+        image: Iphone15_06,
       },
       {
         id: 7,
         productId: 102,
-        image: Iphone14_07,
+        image: Iphone15_07,
       },
     ],
     colors: [
@@ -1142,43 +1161,36 @@ export const ProductDetail = [
         id: 1,
         productId: 101,
         price: "51,900.00",
-        image: Iphone14_blue,
+        image: Iphone15_blue,
         color: 'Blue'
       },
       {
         id: 2,
         productId: 101,
         price: "51,900.00",
-        image: Iphone14_green,
+        image: Iphone15_green,
         color: 'Green'
       },
       {
         id: 3,
         productId: 101,
         price: "51,900.00",
-        image: Iphone14_red,
+        image: Iphone15_pink,
         color: 'Red'
       },
       {
         id: 4,
         productId: 101,
         price: "51,900.00",
-        image: Iphone14_white,
+        image: Iphone15_yellow,
         color: 'White'
       },
       {
         id: 5,
         productId: 101,
         price: "51,900.00",
-        image: Iphone14_black,
+        image: Iphone15_black,
         color: 'Black'
-      },
-      {
-        id: 5,
-        productId: 101,
-        price: "51,900.00",
-        image: Iphone14_purple,
-        color: 'Purple'
       },
     ],
     about: [
@@ -1190,7 +1202,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 110,
+    id: 112,
     name: "Apple iPhone 15 Pro",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -1292,7 +1304,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 110,
+    id: 113,
     name: "Apple iPhone 15 Pro Max",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -1394,7 +1406,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 110,
+    id: 114,
     name: "Apple iPhone 16",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -1496,7 +1508,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 110,
+    id: 115,
     name: "Apple iPhone 16 Pro",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
@@ -1598,7 +1610,7 @@ export const ProductDetail = [
     ],
   },
   {
-    id: 110,
+    id: 116,
     name: "Apple iPhone 16 Pro Max",
     store: 'Visit the Apple Store',
     pagination: 'Sponsored Electronics › Wearable Technology › Apple Products',
