@@ -127,7 +127,19 @@ import Iphone14_07 from "../assets/ProductImage/iphoneImg/iphone14/iphone14-07.j
 
 ////////// Iphone - 14pro
 ////////// Iphone - 14pro-Max
+import Iphone14pro_max from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max.jpg";
+import Iphone14pro_max_black from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-black.jpg";
+import Iphone14pro_max_gold from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-gold.jpg";
+import Iphone14pro_max_purple from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-purple.jpg";
+import Iphone14pro_max_white from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-white.jpg";
 
+import Iphone14pro_max_01 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-01.jpg";
+import Iphone14pro_max_02 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-02.jpg";
+import Iphone14pro_max_03 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-03.jpg";
+import Iphone14pro_max_04 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-04.jpg";
+import Iphone14pro_max_05 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-05.jpg";
+import Iphone14pro_max_06 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-06.jpg";
+import Iphone14pro_max_07 from "../assets/ProductImage/iphoneImg/iphone14pro-max/iphone14pro-max-07.jpg";
 ////////// Iphone - 15
 ////////// Iphone - 15pro
 ////////// Iphone - 15pro-Max
@@ -894,82 +906,75 @@ export const ProductDetail = [
     review: "1000",
     emi: "7197",
     delivery: "Wednesday, Aug 18",
-    price: "149900",
+    price: "129900",
     status: "In stock",
     soldby: "Darshita Electronics",
-    image: "Apple-iPhone-14-Pro-Max.jpg",
+    image: Iphone14pro_max,
     smallImg: [
       {
         id: 1,
         productId: 102,
-        image: Iphone11_small01,
+        image: Iphone14pro_max_01,
       },
       {
         id: 2,
         productId: 102,
-        image: Iphone11_small02,
+        image: Iphone14pro_max_02,
       },
       {
         id: 3,
         productId: 102,
-        image: Iphone11_small03,
+        image: Iphone14pro_max_03,
       },
       {
         id: 4,
         productId: 102,
-        image: Iphone11_small04,
+        image: Iphone14pro_max_04,
       },
       {
         id: 5,
         productId: 102,
-        image: Iphone11_small05,
+        image: Iphone14pro_max_05,
       },
       {
         id: 6,
         productId: 102,
-        image: Iphone11_small06,
+        image: Iphone14pro_max_06,
       },
       {
         id: 7,
         productId: 102,
-        image: Iphone11_small07,
+        image: Iphone14pro_max_07,
       },
     ],
     colors: [
       {
         id: 1,
         productId: 101,
-        price: '1,899.00',
-        image: ProductIconImg_1,
-        color: 'red1'
+        price: '1,29,900.00',
+        image: Iphone14pro_max_black,
+        color: 'Black'
       },
       {
         id: 2,
         productId: 101,
-        price: '1,899.00',
-        image: ProductIconImg_2,
-        color: 'red2'
+        price: '1,29,900.00',
+        image: Iphone14pro_max_purple,
+        color: 'Purple'
       },
       {
         id: 3,
         productId: 101,
-        price: '1,899.00',
-        image: ProductIconImg_3,
-        color: 'red3'
+        price: '1,29,900.00',
+        image: Iphone14pro_max_gold,
+        color: 'Gold'
       },
       {
         id: 4,
         productId: 101,
-        price: '1,899.00',
-        image: ProductIconImg_4,
-        color: 'red4'
-      },
-      {
-        id: 5,
-        productId: 101,
-        price: '1,899.00',
-        image: ProductIconImg_5,
-        color: 'red5'
+        price: '1,29,900.00',
+        image: Iphone14pro_max_white,
+        color: 'White'
       },
     ],
     about: [
