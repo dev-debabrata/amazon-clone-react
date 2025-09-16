@@ -200,65 +200,55 @@ export const ProductDetail = [
     review: "1000",
     emi: "2401",
     delivery: "Wednesday, Aug 18",
-    price: "29,900",
+    price: "29900",
     status: "In stock",
     soldby: "Darshita Electronics",
     image: Iphone10,
     smallImg: [
       {
         id: 1,
-        productId: 101,
         image: Iphone10_small01,
       },
       {
         id: 2,
-        productId: 101,
         image: Iphone10_small02,
       },
       {
         id: 3,
-        productId: 101,
         image: Iphone10_small03,
       },
       {
         id: 4,
-        productId: 101,
         image: Iphone10_small04,
       },
       {
         id: 5,
-        productId: 101,
         image: Iphone10_small05,
       },
       {
         id: 6,
-        productId: 101,
         image: Iphone10_small06,
       },
       {
         id: 7,
-        productId: 101,
         image: Iphone10_small07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '29,900.00',
         image: Iphone10_black,
         color: 'Black'
       },
       {
         id: 2,
-        productId: 101,
         price: '29,900.00',
         image: Iphone10_white,
         color: 'White'
       },
       {
         id: 3,
-        productId: 101,
         price: '29,900.00',
         image: Iphone10_gold,
         color: 'Golden'
@@ -281,86 +271,73 @@ export const ProductDetail = [
     review: "1000",
     emi: "2401",
     delivery: "Wednesday, Aug 18",
-    price: "35,900",
+    price: "35900",
     status: "In stock",
     soldby: "Darshita Electronics",
     image: Iphone11,
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone11_small01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone11_small02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone11_small03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone11_small04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone11_small05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone11_small06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone11_small07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 102,
         price: '35,900.00',
         image: Iphone11_black,
         color: 'Black'
       },
       {
         id: 2,
-        productId: 102,
         price: '35,900.00',
         image: Iphone11_white,
         color: 'White'
       },
       {
         id: 3,
-        productId: 102,
         price: '35,900.00',
         image: Iphone11_red,
         color: 'Golden'
       },
       {
-        id: 3,
-        productId: 102,
+        id: 4,
         price: '35,900.00',
         image: Iphone11_purple,
         color: 'Golden'
       },
       {
-        id: 3,
-        productId: 102,
+        id: 5,
         price: '35,900.00',
         image: Iphone11_green,
         color: 'Golden'
       },
       {
-        id: 3,
-        productId: 102,
+        id: 6,
         price: '35,900.00',
         image: Iphone11_yellow,
         color: 'Golden'
@@ -383,79 +360,67 @@ export const ProductDetail = [
     review: "1000",
     emi: "2401",
     delivery: "Wednesday, Aug 18",
-    price: "45,900",
+    price: "45900",
     status: "In stock",
     soldby: "Darshita Electronics",
     image: Iphone12,
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone12_01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone12_02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone12_03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone12_04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone12_05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone12_06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone12_07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '45,900.00',
         image: Iphone12,
         color: 'Blue'
       },
       {
         id: 2,
-        productId: 101,
         price: '45,900.00',
         image: Iphone12_white,
         color: 'White'
       },
       {
         id: 3,
-        productId: 101,
         price: '45,900.00',
         image: Iphone12_black,
         color: 'Black'
       },
       {
         id: 4,
-        productId: 101,
         price: '45,900.00',
         image: Iphone12_red,
         color: 'Red'
       },
       {
         id: 5,
-        productId: 101,
         price: '45,900.00',
         image: Iphone12_purple,
         color: 'Purple'
@@ -478,86 +443,73 @@ export const ProductDetail = [
     review: "1000",
     emi: "2401",
     delivery: "Wednesday, Aug 18",
-    price: "43,900",
+    price: "43900",
     status: "In stock",
     soldby: "Darshita Electronics",
     image: Iphone13Mini,
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone13mini_01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone13mini_02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone13mini_03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone13mini_04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone13mini_05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone13mini_06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone13mini_07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '43,900.00',
         image: Iphone13mini_graphite,
         color: 'Graphite'
       },
       {
         id: 2,
-        productId: 101,
         price: '43,900.00',
         image: Iphone13mini_blue,
         color: 'Blue'
       },
       {
         id: 3,
-        productId: 101,
         price: '43,900.00',
         image: Iphone13mini_black,
         color: 'Black'
       },
       {
         id: 4,
-        productId: 101,
         price: '43,900.00',
         image: Iphone13mini_white,
         color: 'White'
       },
       {
         id: 5,
-        productId: 101,
         price: '43,900.00',
         image: Iphone13mini_red,
         color: 'Red'
       },
       {
         id: 6,
-        productId: 101,
         price: '43,900.00',
         image: Iphone13mini_purple,
         color: 'Purple'
@@ -580,86 +532,73 @@ export const ProductDetail = [
     review: "1000",
     emi: "2401",
     delivery: "Wednesday, Aug 18",
-    price: "49,900",
+    price: "49900",
     status: "In stock",
     soldby: "Darshita Electronics",
     image: Iphone13,
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone13_01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone13_02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone13_03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone13_04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone13_05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone13_06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone13_07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: "49,900.00",
         image: Iphone13_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        productId: 101,
         price: "49,900.00",
         image: Iphone13_green,
         color: 'Green'
       },
       {
         id: 3,
-        productId: 101,
         price: "49,900.00",
         image: Iphone13_red,
         color: 'Red'
       },
       {
         id: 4,
-        productId: 101,
         price: "49,900.00",
         image: Iphone13_white,
         color: 'White'
       },
       {
         id: 5,
-        productId: 101,
         price: "49,900.00",
         image: Iphone13_black,
         color: 'Black'
       },
       {
-        id: 5,
-        productId: 101,
+        id: 6,
         price: "49,900.00",
         image: Iphone13_purple,
         color: 'Purple'
@@ -689,58 +628,48 @@ export const ProductDetail = [
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone12pro_Max_01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone12pro_Max_02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone12pro_Max_03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone12pro_Max_04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone12pro_Max_05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone12pro_Max_06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone12pro_Max_07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '85,900.00',
         image: Iphone12pro_Max_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        productId: 101,
         price: '85,900.00',
         image: Iphone12pro_Max_gold,
         color: 'Gold'
       },
       {
         id: 3,
-        productId: 101,
         price: '85,900.00',
         image: Iphone12pro_Max_graphite,
         color: 'Graphite'
@@ -770,58 +699,48 @@ export const ProductDetail = [
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone12pro_Max_01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone12pro_Max_02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone12pro_Max_03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone12pro_Max_04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone12pro_Max_05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone12pro_Max_06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone12pro_Max_07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '50,999.00',
         image: Iphone12pro_Max_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        productId: 101,
         price: '50,999.00',
         image: Iphone12pro_Max_gold,
         color: 'Gold'
       },
       {
         id: 3,
-        productId: 101,
         price: '50,999.00',
         image: Iphone12pro_Max_graphite,
         color: 'Graphite'
@@ -851,58 +770,48 @@ export const ProductDetail = [
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone12pro_Max_01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone12pro_Max_02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone12pro_Max_03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone12pro_Max_04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone12pro_Max_05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone12pro_Max_06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone12pro_Max_07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '1,05,999.00',
         image: Iphone12pro_Max_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        productId: 101,
         price: '1,05,999.00',
         image: Iphone12pro_Max_gold,
         color: 'Gold'
       },
       {
         id: 3,
-        productId: 101,
         price: '1,05,999.00',
         image: Iphone12pro_Max_graphite,
         color: 'Graphite'
@@ -932,65 +841,54 @@ export const ProductDetail = [
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone14pro_max_01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone14pro_max_02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone14pro_max_03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone14pro_max_04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone14pro_max_05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone14pro_max_06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone14pro_max_07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '1,29,900.00',
         image: Iphone14pro_max_black,
         color: 'Black'
       },
       {
         id: 2,
-        productId: 101,
         price: '1,29,900.00',
         image: Iphone14pro_max_purple,
         color: 'Purple'
       },
       {
         id: 3,
-        productId: 101,
         price: '1,29,900.00',
         image: Iphone14pro_max_gold,
         color: 'Gold'
       },
       {
         id: 4,
-        productId: 101,
         price: '1,29,900.00',
         image: Iphone14pro_max_white,
         color: 'White'
@@ -1020,79 +918,66 @@ export const ProductDetail = [
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone14_01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone14_02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone14_03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone14_04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone14_05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone14_06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone14_07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_green,
         color: 'Green'
       },
       {
         id: 3,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_red,
         color: 'Red'
       },
       {
         id: 4,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_white,
         color: 'White'
       },
       {
         id: 5,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_black,
         color: 'Black'
       },
       {
-        id: 5,
-        productId: 101,
+        id: 6,
         price: "51,900.00",
         image: Iphone14_purple,
         color: 'Purple'
@@ -1122,72 +1007,60 @@ export const ProductDetail = [
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone15_01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone15_02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone15_03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone15_04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone15_05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone15_06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone15_07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: "59,900.00",
         image: Iphone15_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        productId: 101,
         price: "59,900.00",
         image: Iphone15_green,
         color: 'Green'
       },
       {
         id: 3,
-        productId: 101,
         price: "59,900.00",
         image: Iphone15_pink,
         color: 'Red'
       },
       {
         id: 4,
-        productId: 101,
         price: "59,900.00",
         image: Iphone15_yellow,
         color: 'White'
       },
       {
         id: 5,
-        productId: 101,
         price: "59,900.00",
         image: Iphone15_black,
         color: 'Black'
@@ -1217,79 +1090,66 @@ export const ProductDetail = [
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone14_01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone14_02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone14_03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone14_04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone14_05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone14_06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone14_07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_green,
         color: 'Green'
       },
       {
         id: 3,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_red,
         color: 'Red'
       },
       {
         id: 4,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_white,
         color: 'White'
       },
       {
         id: 5,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_black,
         color: 'Black'
       },
       {
-        id: 5,
-        productId: 101,
+        id: 6,
         price: "51,900.00",
         image: Iphone14_purple,
         color: 'Purple'
@@ -1319,79 +1179,66 @@ export const ProductDetail = [
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone14_01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone14_02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone14_03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone14_04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone14_05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone14_06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone14_07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_green,
         color: 'Green'
       },
       {
         id: 3,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_red,
         color: 'Red'
       },
       {
         id: 4,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_white,
         color: 'White'
       },
       {
         id: 5,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_black,
         color: 'Black'
       },
       {
-        id: 5,
-        productId: 101,
+        id: 6,
         price: "51,900.00",
         image: Iphone14_purple,
         color: 'Purple'
@@ -1421,79 +1268,66 @@ export const ProductDetail = [
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone14_01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone14_02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone14_03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone14_04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone14_05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone14_06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone14_07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_green,
         color: 'Green'
       },
       {
         id: 3,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_red,
         color: 'Red'
       },
       {
         id: 4,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_white,
         color: 'White'
       },
       {
         id: 5,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_black,
         color: 'Black'
       },
       {
         id: 5,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_purple,
         color: 'Purple'
@@ -1523,79 +1357,66 @@ export const ProductDetail = [
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone14_01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone14_02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone14_03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone14_04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone14_05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone14_06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone14_07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_green,
         color: 'Green'
       },
       {
         id: 3,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_red,
         color: 'Red'
       },
       {
         id: 4,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_white,
         color: 'White'
       },
       {
         id: 5,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_black,
         color: 'Black'
       },
       {
-        id: 5,
-        productId: 101,
+        id: 6,
         price: "51,900.00",
         image: Iphone14_purple,
         color: 'Purple'
@@ -1625,79 +1446,66 @@ export const ProductDetail = [
     smallImg: [
       {
         id: 1,
-        productId: 102,
         image: Iphone14_01,
       },
       {
         id: 2,
-        productId: 102,
         image: Iphone14_02,
       },
       {
         id: 3,
-        productId: 102,
         image: Iphone14_03,
       },
       {
         id: 4,
-        productId: 102,
         image: Iphone14_04,
       },
       {
         id: 5,
-        productId: 102,
         image: Iphone14_05,
       },
       {
         id: 6,
-        productId: 102,
         image: Iphone14_06,
       },
       {
         id: 7,
-        productId: 102,
         image: Iphone14_07,
       },
     ],
     colors: [
       {
         id: 1,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_green,
         color: 'Green'
       },
       {
         id: 3,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_red,
         color: 'Red'
       },
       {
         id: 4,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_white,
         color: 'White'
       },
       {
         id: 5,
-        productId: 101,
         price: "51,900.00",
         image: Iphone14_black,
         color: 'Black'
       },
       {
-        id: 5,
-        productId: 101,
+        id: 6,
         price: "51,900.00",
         image: Iphone14_purple,
         color: 'Purple'
@@ -1740,35 +1548,30 @@ export const WatchDetail = [
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_1,
         color: 'red1'
       },
       {
         id: 2,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_2,
         color: 'red2'
       },
       {
         id: 3,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_3,
         color: 'red3'
       },
       {
         id: 4,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_4,
         color: 'red4'
       },
       {
         id: 5,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_5,
         color: 'red5'
@@ -1794,35 +1597,30 @@ export const WatchDetail = [
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_1,
         color: 'red1'
       },
       {
         id: 2,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_2,
         color: 'red2'
       },
       {
         id: 3,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_3,
         color: 'red3'
       },
       {
         id: 4,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_4,
         color: 'red4'
       },
       {
         id: 5,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_5,
         color: 'red5'
@@ -1849,35 +1647,30 @@ export const WatchDetail = [
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_1,
         color: 'red1'
       },
       {
         id: 2,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_2,
         color: 'red2'
       },
       {
         id: 3,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_3,
         color: 'red3'
       },
       {
         id: 4,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_4,
         color: 'red4'
       },
       {
         id: 5,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_5,
         color: 'red5'
@@ -1904,35 +1697,30 @@ export const WatchDetail = [
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_1,
         color: 'red1'
       },
       {
         id: 2,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_2,
         color: 'red2'
       },
       {
         id: 3,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_3,
         color: 'red3'
       },
       {
         id: 4,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_4,
         color: 'red4'
       },
       {
         id: 5,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_5,
         color: 'red5'
@@ -1959,35 +1747,30 @@ export const WatchDetail = [
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_1,
         color: 'red1'
       },
       {
         id: 2,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_2,
         color: 'red2'
       },
       {
         id: 3,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_3,
         color: 'red3'
       },
       {
         id: 4,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_4,
         color: 'red4'
       },
       {
         id: 5,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_5,
         color: 'red5'
@@ -2014,35 +1797,30 @@ export const WatchDetail = [
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_1,
         color: 'red1'
       },
       {
         id: 2,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_2,
         color: 'red2'
       },
       {
         id: 3,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_3,
         color: 'red3'
       },
       {
         id: 4,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_4,
         color: 'red4'
       },
       {
         id: 5,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_5,
         color: 'red5'
@@ -2069,35 +1847,30 @@ export const WatchDetail = [
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_1,
         color: 'red1'
       },
       {
         id: 2,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_2,
         color: 'red2'
       },
       {
         id: 3,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_3,
         color: 'red3'
       },
       {
         id: 4,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_4,
         color: 'red4'
       },
       {
         id: 5,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_5,
         color: 'red5'
@@ -2124,35 +1897,30 @@ export const WatchDetail = [
     colors: [
       {
         id: 1,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_1,
         color: 'red1'
       },
       {
         id: 2,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_2,
         color: 'red2'
       },
       {
         id: 3,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_3,
         color: 'red3'
       },
       {
         id: 4,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_4,
         color: 'red4'
       },
       {
         id: 5,
-        productId: 101,
         price: '1,899.00',
         image: ProductIconImg_5,
         color: 'red5'
