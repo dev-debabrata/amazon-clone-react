@@ -49,7 +49,7 @@ const Footer = () => {
         {/* Countries */}
         <div className="max-w-[1000px] mx-auto flex justify-center items-center flex-wrap pb-8 gap-2 text-[12px] text-[#cacacb]">
           {[
-            "Australia", "Brazil", "Canada", "China", "France", "Germany", "India", "Italy", "Japan",
+            "Australia", "Brazil", "Canada", "China", "France", "Germany", "Italy", "Japan",
             "Mexico", "Netherlands", "Poland", "Singapore", "Spain", "Turkey",
             "United Arab Emirates", "United Kingdom", "United States"
           ].map((country) => (
