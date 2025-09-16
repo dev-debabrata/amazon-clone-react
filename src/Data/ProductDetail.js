@@ -159,9 +159,24 @@ import Iphone15_05 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-05.j
 import Iphone15_06 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-06.jpg";
 import Iphone15_07 from "../assets/ProductImage/iphoneImg/iphone15/iphone15-07.jpg";
 
-
 ////////// Iphone - 15pro
+import Iphone15pro from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro.jpg";
+
 ////////// Iphone - 15pro-Max
+import Iphone15pro_max from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max.jpg";
+import Iphone15pro_max_black from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-black.jpg";
+import Iphone15pro_max_white from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-white.jpg";
+import Iphone15pro_max_natural from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-natural.jpg";
+import Iphone15pro_max_blue from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-blue.jpg";
+import Iphone15pro_max_red from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-01.jpg";
+
+import Iphone15pro_max_01 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-01.jpg";
+import Iphone15pro_max_02 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-02.jpg";
+import Iphone15pro_max_03 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-03.jpg";
+import Iphone15pro_max_04 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-04.jpg";
+import Iphone15pro_max_05 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-05.jpg";
+import Iphone15pro_max_06 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-06.jpg";
+import Iphone15pro_max_07 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-07.jpg";
 
 ////////// Iphone - 16
 ////////// Iphone - 16pro
@@ -1083,76 +1098,70 @@ export const ProductDetail = [
     review: "1000",
     emi: "3440",
     delivery: "Wednesday, Aug 18",
-    price: "51900",
+    price: "89900",
     status: "In stock",
     soldby: "Darshita Electronics",
-    image: Iphone14,
+    image: Iphone15pro,
     smallImg: [
       {
         id: 1,
-        image: Iphone14_01,
+        image: Iphone15pro_max_01,
       },
       {
         id: 2,
-        image: Iphone14_02,
+        image: Iphone15pro_max_02,
       },
       {
         id: 3,
-        image: Iphone14_03,
+        image: Iphone15pro_max_03,
       },
       {
         id: 4,
-        image: Iphone14_04,
+        image: Iphone15pro_max_04,
       },
       {
         id: 5,
-        image: Iphone14_05,
+        image: Iphone15pro_max_05,
       },
       {
         id: 6,
-        image: Iphone14_06,
+        image: Iphone15pro_max_06,
       },
       {
         id: 7,
-        image: Iphone14_07,
+        image: Iphone15pro_max_07,
       },
     ],
     colors: [
       {
         id: 1,
-        price: "51,900.00",
-        image: Iphone14_blue,
+        price: "89,900.00",
+        image: Iphone15pro_max_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        price: "51,900.00",
-        image: Iphone14_green,
-        color: 'Green'
+        price: "89,900.00",
+        image: Iphone15pro_max_black,
+        color: 'Black'
       },
       {
         id: 3,
-        price: "51,900.00",
-        image: Iphone14_red,
+        price: "89,900.00",
+        image: Iphone15pro_max_red,
         color: 'Red'
       },
       {
         id: 4,
-        price: "51,900.00",
-        image: Iphone14_white,
+        price: "89,900.00",
+        image: Iphone15pro_max_white,
         color: 'White'
       },
       {
         id: 5,
-        price: "51,900.00",
-        image: Iphone14_black,
+        price: "89,900.00",
+        image: Iphone15pro_max_natural,
         color: 'Black'
-      },
-      {
-        id: 6,
-        price: "51,900.00",
-        image: Iphone14_purple,
-        color: 'Purple'
       },
     ],
     about: [
@@ -1172,76 +1181,70 @@ export const ProductDetail = [
     review: "1000",
     emi: "3440",
     delivery: "Wednesday, Aug 18",
-    price: "51900",
+    price: "129900",
     status: "In stock",
     soldby: "Darshita Electronics",
-    image: Iphone14,
+    image: Iphone15pro_max,
     smallImg: [
       {
         id: 1,
-        image: Iphone14_01,
+        image: Iphone15pro_max_01,
       },
       {
         id: 2,
-        image: Iphone14_02,
+        image: Iphone15pro_max_02,
       },
       {
         id: 3,
-        image: Iphone14_03,
+        image: Iphone15pro_max_03,
       },
       {
         id: 4,
-        image: Iphone14_04,
+        image: Iphone15pro_max_04,
       },
       {
         id: 5,
-        image: Iphone14_05,
+        image: Iphone15pro_max_05,
       },
       {
         id: 6,
-        image: Iphone14_06,
+        image: Iphone15pro_max_06,
       },
       {
         id: 7,
-        image: Iphone14_07,
+        image: Iphone15pro_max_07,
       },
     ],
     colors: [
       {
         id: 1,
-        price: "51,900.00",
-        image: Iphone14_blue,
+        price: "1,29,900.00",
+        image: Iphone15pro_max_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        price: "51,900.00",
-        image: Iphone14_green,
-        color: 'Green'
+        price: "1,29,900.00",
+        image: Iphone15pro_max_black,
+        color: 'Black'
       },
       {
         id: 3,
-        price: "51,900.00",
-        image: Iphone14_red,
+        price: "1,29,900.00",
+        image: Iphone15pro_max_red,
         color: 'Red'
       },
       {
         id: 4,
-        price: "51,900.00",
-        image: Iphone14_white,
+        price: "1,29,900.00",
+        image: Iphone15pro_max_white,
         color: 'White'
       },
       {
         id: 5,
-        price: "51,900.00",
-        image: Iphone14_black,
+        price: "1,29,900.00",
+        image: Iphone15pro_max_natural,
         color: 'Black'
-      },
-      {
-        id: 6,
-        price: "51,900.00",
-        image: Iphone14_purple,
-        color: 'Purple'
       },
     ],
     about: [
