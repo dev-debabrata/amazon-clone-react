@@ -43,7 +43,7 @@ const Footer = () => {
           </div>
           <div className="flex justify-center items-center gap-2 m-4 text-[#cad0d8] border border-[#3a4553] p-2.5 rounded-md">
             <img className="p-2 h-[45px]" src="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/4.1.4/flags/4x3/in.svg" />
-            <span>India</span>
+            <span className="p-2">India</span>
           </div>
         </div>
         {/* Countries */}
@@ -56,8 +56,12 @@ const Footer = () => {
             <span key={country} className="p-1 cursor-pointer hover:underline">{country}</span>
           ))}
         </div>
+        <div className="max-w-[1000px] mx-auto flex justify-center items-center flex-wrap pb-8 pt-5 gap-2 text-[14px] text-[#cacacb]">
+          <p>
+            Copyright © 2025. All Rights Reserved - Debabrata
+          </p>
+        </div>
       </div>
-
     </footer>
   );
 };
