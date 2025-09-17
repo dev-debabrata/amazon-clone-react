@@ -6,6 +6,7 @@ import {
   LaptopDetail,
   headphonesDetail,
 } from "../Data/ProductDetail";
+import { TodaysDeals } from "../Data/SliderDetail";
 import { shippingDetail } from "../Data/data";
 import { Link, useParams } from "react-router-dom";
 import CartContext from "../ContextApi/CartContext";
@@ -18,7 +19,7 @@ const ProductPaga = () => {
 
   useEffect(() => {
     window.scrollTo(0, 0);
-    const items = [...ProductDetail, ...WatchDetail, ...LaptopDetail, ...headphonesDetail];
+    const items = [...ProductDetail, ...WatchDetail, ...LaptopDetail, ...headphonesDetail, ...TodaysDeals];
     const found = items.find(item => item.id == id);
     if (found) setProduct(found);
   }, [id]);
@@ -114,6 +115,8 @@ const ProductPaga = () => {
             </div>
           </div>
 
+
+
           {/* Buy Now Section */}
           <div className="border border-gray-300 rounded w-[20%] p-4">
             <p className=" text-[28px] font-semibold">
@@ -135,7 +138,11 @@ const ProductPaga = () => {
             </span>
             <div className=" text-center">
               <Link to='/CartPage'>
-                <CartButton name="Add to Cart" color={""} onClick={() => addtoCart(product.id, product.name, product.price, product.status, product.image)} />
+                <CartButton
+                  name="Add to Cart"
+                  color={""}
+                  onClick={() => addtoCart(product.id, product.name, product.price, product.status, product.image)}
+                />
               </Link>
               <CartButton name="Buy Now" color={"#FFA41C"} />
             </div>

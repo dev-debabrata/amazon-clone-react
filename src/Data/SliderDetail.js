@@ -15,7 +15,8 @@ export const TodaysDeals = [
     {
         id: 1,
         productImage: ImgP1,
-        productName: 'Samsung Galaxy M14 5G'
+        productName: 'Samsung Galaxy M14 5G',
+        image: ImgP1,
     },
     {
         id: 2,
@@ -35,7 +36,8 @@ export const TodaysDeals = [
     {
         id: 5,
         productImage: ImgP5,
-        productName: 'Apple Airpods starting Rs. 11999'
+        productName: 'Apple Airpods starting Rs. 11999',
+        image: ImgP5,
     },
     {
         id: 6,

@@ -179,6 +179,20 @@ import Iphone15pro_max_06 from "../assets/ProductImage/iphoneImg/iphone15pro-max
 import Iphone15pro_max_07 from "../assets/ProductImage/iphoneImg/iphone15pro-max/iphone15pro-max-07.jpg";
 
 ////////// Iphone - 16
+import Iphone16 from "../assets/ProductImage/iphoneImg/iphone16/iphone16.jpg";
+import Iphone16_blue from "../assets/ProductImage/iphoneImg/iphone16/iphone16-blue.jpg";
+import Iphone16_white from "../assets/ProductImage/iphoneImg/iphone16/iphone16-white.jpg";
+import Iphone16_green from "../assets/ProductImage/iphoneImg/iphone16/iphone16-green.jpg";
+import Iphone16_black from "../assets/ProductImage/iphoneImg/iphone16/iphone16-black.jpg";
+import Iphone16_pink from "../assets/ProductImage/iphoneImg/iphone16/iphone16-pink.jpg";
+
+import Iphone16_01 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-01.jpg";
+import Iphone16_02 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-02.jpg";
+import Iphone16_03 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-03.jpg";
+import Iphone16_04 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-04.jpg";
+import Iphone16_05 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-05.jpg";
+import Iphone16_06 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-06.jpg";
+import Iphone16_07 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-07.jpg";
 ////////// Iphone - 16pro
 ////////// Iphone - 16pro-Max
 
@@ -1264,76 +1278,70 @@ export const ProductDetail = [
     review: "1000",
     emi: "3440",
     delivery: "Wednesday, Aug 18",
-    price: "51900",
+    price: "79900",
     status: "In stock",
     soldby: "Darshita Electronics",
-    image: Iphone14,
+    image: Iphone16,
     smallImg: [
       {
         id: 1,
-        image: Iphone14_01,
+        image: Iphone16_01,
       },
       {
         id: 2,
-        image: Iphone14_02,
+        image: Iphone16_02,
       },
       {
         id: 3,
-        image: Iphone14_03,
+        image: Iphone16_03,
       },
       {
         id: 4,
-        image: Iphone14_04,
+        image: Iphone16_04,
       },
       {
         id: 5,
-        image: Iphone14_05,
+        image: Iphone16_05,
       },
       {
         id: 6,
-        image: Iphone14_06,
+        image: Iphone16_06,
       },
       {
         id: 7,
-        image: Iphone14_07,
+        image: Iphone16_07,
       },
     ],
     colors: [
       {
         id: 1,
-        price: "51,900.00",
-        image: Iphone14_blue,
+        price: "79,900.00",
+        image: Iphone16_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        price: "51,900.00",
-        image: Iphone14_green,
+        price: "79,900.00",
+        image: Iphone16_green,
         color: 'Green'
       },
       {
         id: 3,
-        price: "51,900.00",
-        image: Iphone14_red,
-        color: 'Red'
+        price: "79,900.00",
+        image: Iphone16_pink,
+        color: 'Pink'
       },
       {
         id: 4,
-        price: "51,900.00",
-        image: Iphone14_white,
+        price: "79,900.00",
+        image: Iphone16_white,
         color: 'White'
       },
       {
         id: 5,
-        price: "51,900.00",
-        image: Iphone14_black,
+        price: "79,900.00",
+        image: Iphone16_black,
         color: 'Black'
-      },
-      {
-        id: 5,
-        price: "51,900.00",
-        image: Iphone14_purple,
-        color: 'Purple'
       },
     ],
     about: [
