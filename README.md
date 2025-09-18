@@ -1,7 +1,5 @@
 # Amazon Clone
 
-**React + Tailwind CSS**
-
 A simple Amazon-like product listing and detail storefront built with React and Tailwind CSS. This README assumes a Vite-based React project but can be adapted for Create React App.
 
 ---
