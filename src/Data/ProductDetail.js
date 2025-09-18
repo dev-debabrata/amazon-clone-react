@@ -194,7 +194,22 @@ import Iphone16_05 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-05.j
 import Iphone16_06 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-06.jpg";
 import Iphone16_07 from "../assets/ProductImage/iphoneImg/iphone16/iphone16-07.jpg";
 ////////// Iphone - 16pro
+import Iphone16pro from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-blue.jpg";
 ////////// Iphone - 16pro-Max
+import Iphone16pro_max from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max.jpg";
+import Iphone16pro_max_blue from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-blue.jpg";
+import Iphone16pro_max_white from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-white.jpg";
+import Iphone16pro_max_gold from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-gold.jpg";
+import Iphone16pro_max_black from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-black.jpg";
+import Iphone16pro_max_natural from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-natural.jpg";
+
+import Iphone16pro_max_01 from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-01.jpg";
+import Iphone16pro_max_02 from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-02.jpg";
+import Iphone16pro_max_03 from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-03.jpg";
+import Iphone16pro_max_04 from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-04.jpg";
+import Iphone16pro_max_05 from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-05.jpg";
+import Iphone16pro_max_06 from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-06.jpg";
+import Iphone16pro_max_07 from "../assets/ProductImage/iphoneImg/iphone16pro-max/iphone16pro-max-07.jpg";
 
 
 
@@ -1361,76 +1376,70 @@ export const ProductDetail = [
     review: "1000",
     emi: "3440",
     delivery: "Wednesday, Aug 18",
-    price: "51900",
+    price: "129900",
     status: "In stock",
     soldby: "Darshita Electronics",
-    image: Iphone14,
+    image: Iphone16pro,
     smallImg: [
       {
         id: 1,
-        image: Iphone14_01,
+        image: Iphone16pro_max_01,
       },
       {
         id: 2,
-        image: Iphone14_02,
+        image: Iphone16pro_max_02,
       },
       {
         id: 3,
-        image: Iphone14_03,
+        image: Iphone16pro_max_03,
       },
       {
         id: 4,
-        image: Iphone14_04,
+        image: Iphone16pro_max_04,
       },
       {
         id: 5,
-        image: Iphone14_05,
+        image: Iphone16pro_max_05,
       },
       {
         id: 6,
-        image: Iphone14_06,
+        image: Iphone16pro_max_06,
       },
       {
         id: 7,
-        image: Iphone14_07,
+        image: Iphone16pro_max_07,
       },
     ],
     colors: [
       {
         id: 1,
-        price: "51,900.00",
-        image: Iphone14_blue,
+        price: "1,29,900.00",
+        image: Iphone16pro_max_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        price: "51,900.00",
-        image: Iphone14_green,
-        color: 'Green'
+        price: "1,29,900.00",
+        image: Iphone16pro_max_gold,
+        color: 'Gold'
       },
       {
         id: 3,
-        price: "51,900.00",
-        image: Iphone14_red,
-        color: 'Red'
+        price: "1,29,900.00",
+        image: Iphone16pro_max_natural,
+        color: 'Natural'
       },
       {
         id: 4,
-        price: "51,900.00",
-        image: Iphone14_white,
+        price: "1,29,900.00",
+        image: Iphone16pro_max_white,
         color: 'White'
       },
       {
         id: 5,
-        price: "51,900.00",
-        image: Iphone14_black,
+        price: "1,29,900.00",
+        image: Iphone16pro_max_black,
         color: 'Black'
-      },
-      {
-        id: 6,
-        price: "51,900.00",
-        image: Iphone14_purple,
-        color: 'Purple'
       },
     ],
     about: [
@@ -1450,76 +1459,70 @@ export const ProductDetail = [
     review: "1000",
     emi: "3440",
     delivery: "Wednesday, Aug 18",
-    price: "51900",
+    price: "149900",
     status: "In stock",
     soldby: "Darshita Electronics",
-    image: Iphone14,
+    image: Iphone16pro_max,
     smallImg: [
       {
         id: 1,
-        image: Iphone14_01,
+        image: Iphone16pro_max_01,
       },
       {
         id: 2,
-        image: Iphone14_02,
+        image: Iphone16pro_max_02,
       },
       {
         id: 3,
-        image: Iphone14_03,
+        image: Iphone16pro_max_03,
       },
       {
         id: 4,
-        image: Iphone14_04,
+        image: Iphone16pro_max_04,
       },
       {
         id: 5,
-        image: Iphone14_05,
+        image: Iphone16pro_max_05,
       },
       {
         id: 6,
-        image: Iphone14_06,
+        image: Iphone16pro_max_06,
       },
       {
         id: 7,
-        image: Iphone14_07,
+        image: Iphone16pro_max_07,
       },
     ],
     colors: [
       {
         id: 1,
-        price: "51,900.00",
-        image: Iphone14_blue,
+        price: "1,49,900.00",
+        image: Iphone16pro_max_blue,
         color: 'Blue'
       },
       {
         id: 2,
-        price: "51,900.00",
-        image: Iphone14_green,
-        color: 'Green'
+        price: "1,49,900.00",
+        image: Iphone16pro_max_gold,
+        color: 'Gold'
       },
       {
         id: 3,
-        price: "51,900.00",
-        image: Iphone14_red,
-        color: 'Red'
+        price: "1,49,900.00",
+        image: Iphone16pro_max_natural,
+        color: 'Natural'
       },
       {
         id: 4,
-        price: "51,900.00",
-        image: Iphone14_white,
+        price: "1,49,900.00",
+        image: Iphone16pro_max_white,
         color: 'White'
       },
       {
         id: 5,
-        price: "51,900.00",
-        image: Iphone14_black,
+        price: "1,49,900.00",
+        image: Iphone16pro_max_black,
         color: 'Black'
-      },
-      {
-        id: 6,
-        price: "51,900.00",
-        image: Iphone14_purple,
-        color: 'Purple'
       },
     ],
     about: [
