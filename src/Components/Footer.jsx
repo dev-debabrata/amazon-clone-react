@@ -5,6 +5,9 @@ import ArrowDropUpIcon from '@mui/icons-material/ArrowDropUp';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 
 const Footer = () => {
+
+  const currentYear = new Date().getFullYear();
+
   return (
     <footer>
       <div className=" bg-[#232F3E]">
@@ -58,7 +61,7 @@ const Footer = () => {
         </div>
         <div className="max-w-[1000px] mx-auto flex justify-center items-center flex-wrap pb-8 pt-5 gap-2 text-[14px] text-[#cacacb]">
           <p>
-            Copyright © 2025. All Rights Reserved - Debabrata
+            © Copyright {currentYear} by Debabrata Das | All rights reserved
           </p>
         </div>
       </div>
